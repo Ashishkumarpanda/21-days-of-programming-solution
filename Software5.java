@@ -11,12 +11,5 @@ public class Software5 {
       int d=Integer.parseInt(s,2);
       i=(char)d;
       System.out.println("the character will be:"+i);
-      
-
-
-
-     
-
-    }
-    
-}
+       }
+  }
