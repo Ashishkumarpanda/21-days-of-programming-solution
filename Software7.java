@@ -19,7 +19,7 @@ public class Software7 {
         }
         else
         {
-            System.out.println("I_LOVE_YOU");
+            System.out.println("NO");
         }
 
     }
