@@ -5,7 +5,7 @@ import java.util.Scanner;
  {
      Scanner sc=new Scanner(System.in);
      int n,i;
-     System.out.println("Enter number of elements in array");
+     System.out.println("Enter array dimension");
      n=sc.nextInt();
      int a[]=new int[n];
      System.out.println("Enter elements");
