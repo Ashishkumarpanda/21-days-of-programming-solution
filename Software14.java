@@ -1,4 +1,4 @@
-import  java.lang.String;
+import java.lang.String;
 import java.util.Scanner;
 public class Software14{
     public static void main(String[] args) {
